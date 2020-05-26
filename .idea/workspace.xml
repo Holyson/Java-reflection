@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de053c11-f816-4a9d-9f04-26175a7d1ed2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cA1gw8FHtotIHDaO5DfnaHgLZi" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ctra.reflection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.annotationVsReflection">
+    <configuration name="ReflectionTest06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctra.reflection.ReflectionTest06" />
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctra.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionTest07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctra.reflection.ReflectionTest07" />
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctra.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionTest08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctra.reflection.ReflectionTest08" />
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctra.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionTest09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctra.reflection.ReflectionTest09" />
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctra.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="annotationVsReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ctra.reflection.annotationVsReflection" />
+      <module name="reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctra.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.annotationVsReflection" />
+        <item itemvalue="Application.ReflectionTest09" />
+        <item itemvalue="Application.ReflectionTest08" />
+        <item itemvalue="Application.ReflectionTest07" />
+        <item itemvalue="Application.ReflectionTest06" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de053c11-f816-4a9d-9f04-26175a7d1ed2" name="Default Changelist" comment="" />
+      <created>1589956698730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589956698730</updated>
+      <workItem from="1589956702836" duration="6788000" />
+      <workItem from="1590026697415" duration="33918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1129" y="419" key="#com.intellij.ide.util.MemberChooser" timestamp="1590458266098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1129" y="419" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590458266098" />
+    <state x="1129" y="419" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590402640669" />
+    <state x="744" y="386" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589960442642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="386" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589960442642" />
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1590117376366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.302.1536.824@0.0.1920.1040" timestamp="1590117376366" />
+    <state width="1877" height="256" key="GridCell.Tab.0.bottom" timestamp="1590460370068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1590025525527" />
+    <state width="1877" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590460370068" />
+    <state width="1877" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590374833086" />
+    <state width="1877" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.302.1536.824@0.0.1920.1040" timestamp="1590049597989" />
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.302.1536.824@1920.302.1536.824" timestamp="1590030901564" />
+    <state width="1877" height="256" key="GridCell.Tab.0.center" timestamp="1590460370068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1590025525527" />
+    <state width="1877" height="256" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590460370068" />
+    <state width="1877" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590374833086" />
+    <state width="1877" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/1920.302.1536.824@0.0.1920.1040" timestamp="1590049597989" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/1920.302.1536.824@1920.302.1536.824" timestamp="1590030901564" />
+    <state width="1877" height="256" key="GridCell.Tab.0.left" timestamp="1590460370067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1590025525527" />
+    <state width="1877" height="256" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590460370067" />
+    <state width="1877" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590374833086" />
+    <state width="1877" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/1920.302.1536.824@0.0.1920.1040" timestamp="1590049597989" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/1920.302.1536.824@1920.302.1536.824" timestamp="1590030901564" />
+    <state width="1877" height="256" key="GridCell.Tab.0.right" timestamp="1590460370068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1590025525527" />
+    <state width="1877" height="256" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590460370068" />
+    <state width="1877" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590374833086" />
+    <state width="1877" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/1920.302.1536.824@0.0.1920.1040" timestamp="1590049597989" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/1920.302.1536.824@1920.302.1536.824" timestamp="1590030901564" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1590025525527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1590025525527" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589964278637" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1590025525527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1590025525527" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589964278637" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1590025525527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1590025525527" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589964278637" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1590025525527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1590025525527" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589964278637" />
+    <state x="1058" y="146" width="540" height="524" key="StructurePopup" timestamp="1590378424432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1058" y="146" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590378424432" />
+    <state x="731" y="238" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589960400009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="238" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589960400009" />
+    <state x="334" y="224" key="new project wizard" timestamp="1590117388458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="224" key="new project wizard/0.0.1920.1040/1920.302.1536.824@0.0.1920.1040" timestamp="1590117388458" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590379125080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590379125080" />
+  </component>
+</project>
